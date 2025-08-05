@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobTriggerFunction", "Blob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDbInputHTTPTRIGGER", "CosmosDbInputHTTPTRIGGER\CosmosDbInputHTTPTRIGGER.csproj", "{8C551A13-C0D3-4A38-9BAC-2A8C71FE9B1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpTriggerInputOutputBindings", "HttpTriggerInputOutputBindings\HttpTriggerInputOutputBindings.csproj", "{8FE5D387-26A1-4E22-A9E2-E0F5F4E540DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8C551A13-C0D3-4A38-9BAC-2A8C71FE9B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C551A13-C0D3-4A38-9BAC-2A8C71FE9B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C551A13-C0D3-4A38-9BAC-2A8C71FE9B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE5D387-26A1-4E22-A9E2-E0F5F4E540DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE5D387-26A1-4E22-A9E2-E0F5F4E540DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE5D387-26A1-4E22-A9E2-E0F5F4E540DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE5D387-26A1-4E22-A9E2-E0F5F4E540DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerTrigger", "TimerTrigge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobTriggerFunction", "BlobTriggerFunction\BlobTriggerFunction.csproj", "{FE94A7D3-8844-4336-92DB-35B3D6D6908A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDbInputHTTPTRIGGER", "CosmosDbInputHTTPTRIGGER\CosmosDbInputHTTPTRIGGER.csproj", "{8C551A13-C0D3-4A38-9BAC-2A8C71FE9B1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FE94A7D3-8844-4336-92DB-35B3D6D6908A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE94A7D3-8844-4336-92DB-35B3D6D6908A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE94A7D3-8844-4336-92DB-35B3D6D6908A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C551A13-C0D3-4A38-9BAC-2A8C71FE9B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C551A13-C0D3-4A38-9BAC-2A8C71FE9B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C551A13-C0D3-4A38-9BAC-2A8C71FE9B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C551A13-C0D3-4A38-9BAC-2A8C71FE9B1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
